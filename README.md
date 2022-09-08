@@ -76,11 +76,6 @@
 <br />
 <br />
   
-### Spotify Playing 🎧
-
-[<img src="https://novatorem-fork-bnseamster.vercel.app//api/spotify" alt="codeSTACKr Spotify Playing" width="75%" />](https://open.spotify.com/user/brando512?si=illx6As3Rw2AEPfNs0gfbw)
-
-
 
 
 
