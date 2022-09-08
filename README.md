@@ -79,7 +79,7 @@
 
 
 
-[instagram]: https://instagram.com/marcmaralou
+[website]: https://instagram.com/marcmaralou
 [twitter]: https://twitter.com/marcmaralou
 [linkedin]: https://www.linkedin.com/in/marcmaralou/
 
