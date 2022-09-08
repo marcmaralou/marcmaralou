@@ -4,12 +4,8 @@
 [![Website](https://img.shields.io/website?label=my%20Portfolio&style=for-the-badge&url=https%3A%2F%2Fbnseamster.dev)](https://bnseamster.github.io)
 [![Twitter Follow](https://img.shields.io/twitter/follow/brandonSeam?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=BrandonSeam)
 
-
 ## I'm a Developer, Musician, Mathematics Grad, and Oat Lover!
 
-- 🧠 I’m currently learning Express.js
-- 👯 I’m looking to contribute to teams that change people's lives, one person at a time
-- 🥅 2021 Goals: Push to GitHub for 100 days straight
 - ⚡ Fun fact: I make neo-trance music
 ### My Projects 
 <article>
