@@ -19,7 +19,7 @@
         <a href="https://newgroove.netlify.app/" rel="nofollow">
             <img src="https://media.giphy.com/media/TKUKfU8ycKcdcxHWVy/giphy.gif" width="100%" alt="NewGroove.jpg" data-canonical-src="https://media.giphy.com/media/TKUKfU8ycKcdcxHWVy/giphy.gif" style="max-width:100%;">
         </a>
-        <p><strong>JavaScript, HTML, CSS</strong> - Cronofy - A functional and simple calculator app that allows users to do generic mathematical operations.</p>        
+        <p><strong>JavaScript, HTML, CSS</strong> - A functional and simple calculator app that allows users to do generic mathematical operations.</p>        
         <svg version="1.1" width="100%" height="5px"  id="line_2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" xml:space="preserve">
         <path class="path2" fill="#dcdcdc" stroke-width="2" stroke="#dcdcdc" d="M0 0 l1120 0"/>
 </svg>
