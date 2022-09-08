@@ -80,6 +80,6 @@
 
 
 [website]: https://bnseamster.dev
-[twitter]: https://twitter.com/BrandonSeam
-[linkedin]: https://www.linkedin.com/in/brandon-seamster/
+[twitter]: https://twitter.com/marcmaralou
+[linkedin]: https://www.linkedin.com/in/marcmaralou/
 
