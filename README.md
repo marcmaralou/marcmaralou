@@ -79,7 +79,7 @@
 
 
 
-[website]: https://bnseamster.dev
+[instagram]: https://instagram.com/marcmaralou
 [twitter]: https://twitter.com/marcmaralou
 [linkedin]: https://www.linkedin.com/in/marcmaralou/
 
