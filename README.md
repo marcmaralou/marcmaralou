@@ -26,16 +26,6 @@
         <path class="path2" fill="#dcdcdc" stroke-width="2" stroke="#dcdcdc" d="M0 0 l1120 0"/>
 </svg>
           
-                <h3><a id="user-content-travelaraorg" href="https://marcscalculator.netlify.app/" class="anchor" aria-hidden="true" href="#travelaraorg" style="color: #000000"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg>Calculator</a></h3>
-        <br>
-        <a href="https://marcscalculator.netlify.app/" rel="nofollow">
-            <img src="https://media.giphy.com/media/mzmJkyqdxNNcEq6uPM/giphy.gif" width="100%" alt="NewGroove.jpg" data-canonical-src="https://media.giphy.com/media/TKUKfU8ycKcdcxHWVy/giphy.gif" style="max-width:100%;">
-        </a>
-        <p><strong>JavaScript, HTML, CSS,</strong> - A simple and functional calculator app that allows users to complete generic mathematical operations.</p>        
-        <svg version="1.1" width="100%" height="5px"  id="line_2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" xml:space="preserve">
-        <path class="path2" fill="#dcdcdc" stroke-width="2" stroke="#dcdcdc" d="M0 0 l1120 0"/>
-</svg>
-          
               <h3><a id="user-content-travelaraorg" class="anchor" aria-hidden="true" href="#travelaraorg"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg>Matrix Code Rain</a>  </h3>
         <br>
         <a href="https://matrixrainjs.netlify.app/" rel="nofollow">
