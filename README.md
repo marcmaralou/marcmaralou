@@ -3,7 +3,7 @@
 - 🏋🏻 I'm currently focusing on developing my LeetCode skills
 - 💻 I’m looking to land my first SWE job on a team that I can make a meaningful impact on
 
-## Fun Facts
+#### Fun Facts
 - ⚾ Huge Angels fan
 - 🎥 Movie/Show critic
 - 🐱 I love cats
