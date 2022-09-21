@@ -1,9 +1,4 @@
-
 ### Hello, my name is Marc! 👋
-
-[![Website](https://img.shields.io/website?label=my%20Portfolio&style=for-the-badge&url=https%3A%2F%2Fbnseamster.dev)](https://bnseamster.github.io)
-[![Twitter Follow](https://img.shields.io/twitter/follow/brandonSeam?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=BrandonSeam)
-
 
 ## I'm a Developer and Musician!
 
