@@ -1,9 +1,5 @@
 ### Hello, my name is Marc! 👋
 
-## I'm a Software Engineer!
-
-- ⚡ Fun fact: I make neo-trance music
-
 ### My Projects 
 <article>
       <div>
