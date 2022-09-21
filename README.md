@@ -54,11 +54,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="bnseamster.dev" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-1024.png"/>][website]
+[<img align="left" alt="instagram" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-1024.png"/>][website]
 
- [<img align="left" alt="BNSeamster | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="tiktok" width="22px" src="https://download.logo.wine/logo/TikTok/TikTok-Logo.wine.png" />][tiktok]
 
-[<img align="left" alt="BNSeamster | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="linkedin" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" />][linkedin]
 
 
 <br />
@@ -86,6 +86,6 @@
 
 
 [website]: https://instagram.com/marcmaralou
-[twitter]: https://twitter.com/marcmaralou
+[tiktok]: https://tiktok.com/@marcmaralou
 [linkedin]: https://www.linkedin.com/in/marcmaralou/
 
