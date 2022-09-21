@@ -58,6 +58,8 @@
 
 [<img align="left" alt="tiktok" width="22px" src="https://seeklogo.com//images/T/tiktok-app-icon-logo-0F5AD7AE01-seeklogo.com.png"/>][tiktok]
 
+[<img align="left" alt="twitter" width="22px" src="https://cpng.pikpng.com/pngl/s/102-1028553_facebook-twitter-logo-transparent-background-twitter-bird-icon.png"/>][twitter]
+
 [<img align="left" alt="linkedin" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png"/>][linkedin]
 
 
@@ -88,4 +90,4 @@
 [instagram]: https://instagram.com/marcmaralou
 [tiktok]: https://tiktok.com/@marcmaralou
 [linkedin]: https://www.linkedin.com/in/marcmaralou/
-
+[twitter]: https://www.twitter.com/marcmaralou/
