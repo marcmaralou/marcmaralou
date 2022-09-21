@@ -54,11 +54,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="instagram" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-1024.png"/>][website]
+[<img align="left" alt="instagram" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-1024.png"/>][instagram]
 
-[<img align="left" alt="tiktok" width="22px" src="https://download.logo.wine/logo/TikTok/TikTok-Logo.wine.png" />][tiktok]
+[<img align="left" alt="tiktok" width="22px" src="https://seeklogo.com//images/T/tiktok-app-icon-logo-0F5AD7AE01-seeklogo.com.png"/>] [tiktok]
 
-[<img align="left" alt="linkedin" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" />][linkedin]
+[<img align="left" alt="linkedin" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png"/>] [linkedin]
 
 
 <br />
@@ -85,7 +85,7 @@
 
 
 
-[website]: https://instagram.com/marcmaralou
+[instagram]: https://instagram.com/marcmaralou
 [tiktok]: https://tiktok.com/@marcmaralou
 [linkedin]: https://www.linkedin.com/in/marcmaralou/
 
