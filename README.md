@@ -6,8 +6,8 @@
 ### Fun Facts
 - ⚾ Huge Angels fan
 - 🎥 Movie/Show critic
-- 🐱 I love cats
-- 🏍️ I have a motorcycle
+- 🐱 Cat father
+- 🏍️ Own and ride a motorcycle
 - 📺 I was on a reality dating show
 
 ### My Projects 
