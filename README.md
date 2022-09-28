@@ -4,7 +4,7 @@
 - 💻 I’m looking to land my first SWE job on a team that I can make a meaningful impact on
 
 ### Fun Facts
-- ⚾ Huge Angels fan
+- ⚾ Angels fan
 - 🎥 Movie/Show critic
 - 🐱 Cat father
 - 🏍️ Own and ride a motorcycle
