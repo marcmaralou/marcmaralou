@@ -1,7 +1,7 @@
 ### Hello, my name is Marc! 👋
 
 - 🏋🏻 I'm currently focusing on developing my LeetCode skills
-- 💻 I’m looking to land my first SWE job on a team that I can make a meaningful impact on
+- 💻 Looking to land my first SWE job on a team that I can make a meaningful impact on
 
 ### Fun Facts
 - ⚾ Angels fan
