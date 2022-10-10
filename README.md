@@ -1,15 +1,3 @@
-### Hello, my name is Marc! 👋
-
-- 🏋🏻 I'm currently focusing on developing my LeetCode skills
-- 💻 Looking to land my first SWE job on a team that I can make a meaningful impact on
-
-### Fun Facts
-- ⚾ Angels fan
-- 🎥 Movie/Show critic
-- 🐱 Cat father
-- 🏍️ Own and ride a motorcycle
-- 📺 I was on a reality dating show
-
 ### My Projects 
 <article>
       <div>
