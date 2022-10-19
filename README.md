@@ -33,7 +33,7 @@
         <a href="https://github.com/marcmaralou/mail" target="_blank" rel="noreferrer">
             <img src="https://media.giphy.com/media/S5mPjC6UZ6HWeNnDoW/giphy.gif" width="100%" alt="Trainify" data-canonical-src="https://media3.giphy.com/media/aUKBycWIVSGyTam4JT/giphy.gif" style="max-width:100%;">
         </a>
-        <p><strong>Django, Python, JavaScript, HTML, CSS</strong> - An self-contained email clone that has all the basic functionality of a traditional email client.  Allows you to make accounts, and send and receive between accounts.</p>
+        <p><strong>Django, Python, JavaScript, HTML, CSS</strong> - An self-contained email clone that has all the basic functionality of a traditional email client.  Allows you to make accounts, and send and receive emails between accounts.</p>
     </td>
   </tr>
 </tbody></table>
