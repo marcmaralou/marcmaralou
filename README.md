@@ -61,8 +61,10 @@
 
 <img align="left" alt='python' width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt='javascript' width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt='c' width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" />
 <img align="left" alt='html' width="26px" src="https://i.stack.imgur.com/PgcSR.png" />
 <img align="left" alt='css' width="30px"  src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png" />
+<img align="left" alt='sql' width="26px" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" />
 
 <br>
 
