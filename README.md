@@ -79,7 +79,6 @@
 
 [<img align="left" alt="instagram" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-1024.png"/>][instagram]
 [<img align="left" alt="tiktok" width="22px" src="https://seeklogo.com//images/T/tiktok-app-icon-logo-0F5AD7AE01-seeklogo.com.png"/>][tiktok]
-[<img align="left" alt="twitter" width="22px" src="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c53e.png"/>][twitter]
 [<img align="left" alt="linkedin" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png"/>][linkedin]
 
 [instagram]: https://instagram.com/marcmaralou
