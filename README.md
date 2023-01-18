@@ -72,13 +72,13 @@
 <img align="left" alt='node' width="26px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" />
 <img align="left" alt='react' width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt='mongodb' width="26px" src="https://miro.medium.com/max/512/1*doAg1_fMQKWFoub-6gwUiQ.png" />
-<img align="left" alt='git' width="26px" src="https://miro.medium.com/max/512/1*doAg1_fMQKWFoub-6gwUiQ.png" />
+<img align="left" alt='git' width="26px" src="https://miro.medium.com/max/512/1*doAg1_fMQKWFoub-6gwUiQ.png"/>
 
 <br>
 
 ### Connect with me:
 
-[<img align="left" alt="instagram" title='Instagram' width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-1024.png"/>][instagram]
+[<img align="left" alt="instagram" title='Instagram' width="22px" src="https://raw.githubusercontent.com/github/explore/06c46459e7947c8a25f72798af696d66e202ac39/topics/instagram/instagram.png"/>][instagram]
 [<img align="left" alt="tiktok" title='TikTok' width="22px" src="https://seeklogo.com//images/T/tiktok-app-icon-logo-0F5AD7AE01-seeklogo.com.png"/>][tiktok]
 [<img align="left" alt="linkedin" title='LinkedIn' width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png"/>][linkedin]
 
