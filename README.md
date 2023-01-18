@@ -58,29 +58,29 @@
 
 ### Languages:
 
-<img align="left" alt='python' title='Python' width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt='javascript' title='JavaScript' width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt='typescript' title='TypeScript' width="26px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-<img align="left" alt='html' title='HTML' width="26px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt='css' title='CSS' width="26px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt='python' title='Python' width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
+<img align="left" alt='javascript' title='JavaScript' width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
+<img align="left" alt='typescript' title='TypeScript' width="32px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"/>
+<img align="left" alt='html' title='HTML' width="32px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
+<img align="left" alt='css' title='CSS' width="32px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
 
 <br>
 
 ### Tools:
 
-<img align="left" alt='django' width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
-<img align="left" alt='node' width="26px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" />
-<img align="left" alt='react' width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt='mongodb' width="26px" src="https://miro.medium.com/max/512/1*doAg1_fMQKWFoub-6gwUiQ.png"/>
-<img align="left" alt='git' width="26px" src="https://miro.medium.com/max/512/1*doAg1_fMQKWFoub-6gwUiQ.png"/>
+<img align="left" alt='django' width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"/>
+<img align="left" alt='node' width="32px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png"/>
+<img align="left" alt='react' width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
+<img align="left" alt='mongodb' width="32px" src="https://miro.medium.com/max/512/1*doAg1_fMQKWFoub-6gwUiQ.png"/>
+<img align="left" alt='git' width="32px" src="https://miro.medium.com/max/512/1*doAg1_fMQKWFoub-6gwUiQ.png"/>
 
 <br>
 
 ### Connect with me:
 
-[<img align="left" alt="instagram" title='Instagram' width="22px" src="https://raw.githubusercontent.com/github/explore/06c46459e7947c8a25f72798af696d66e202ac39/topics/instagram/instagram.png"/>][instagram]
-[<img align="left" alt="tiktok" title='TikTok' width="22px" src="https://seeklogo.com//images/T/tiktok-app-icon-logo-0F5AD7AE01-seeklogo.com.png"/>][tiktok]
-[<img align="left" alt="linkedin" title='LinkedIn' width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png"/>][linkedin]
+[<img align='left' alt='instagram' title='Instagram' width='32px' src="https://raw.githubusercontent.com/github/explore/06c46459e7947c8a25f72798af696d66e202ac39/topics/instagram/instagram.png"/>][instagram]
+[<img align="left" alt="tiktok" title='TikTok' width="32px" src="https://raw.githubusercontent.com/github/explore/14a518abd710177a13d8c22077cfcd98506dd756/topics/tiktok/tiktok.png"/>][tiktok]
+[<img align="left" alt="linkedin" title='LinkedIn' width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png"/>][linkedin]
 
 [instagram]: https://instagram.com/marcmaralou
 [tiktok]: https://tiktok.com/@marcmaralou
