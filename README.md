@@ -71,7 +71,7 @@
 <img align="left" alt='django' width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
 <img align="left" alt='node' width="26px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" />
 <img align="left" alt='react' width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt='mongodb' width="26px" src="https://miro.medium.com/max/512/1*doAg1_fMQKWFoub-6gwUiQ.png" />
+<img align="left" alt='mongodb' width="26px" src="https://miro.medium.com/max/512/1*doAg1_fMQKWFoub-6gwUiQ.png"/>
 <img align="left" alt='git' width="26px" src="https://miro.medium.com/max/512/1*doAg1_fMQKWFoub-6gwUiQ.png"/>
 
 <br>
