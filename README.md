@@ -78,9 +78,9 @@
 
 ### Connect with me:
 
-[<img align='left' alt='instagram' title='Instagram' width='32px' src="https://raw.githubusercontent.com/github/explore/06c46459e7947c8a25f72798af696d66e202ac39/topics/instagram/instagram.png"/>][instagram]
-[<img align="left" alt="tiktok" title='TikTok' width="32px" src="https://raw.githubusercontent.com/github/explore/14a518abd710177a13d8c22077cfcd98506dd756/topics/tiktok/tiktok.png"/>][tiktok]
-[<img align="left" alt="linkedin" title='LinkedIn' width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png"/>][linkedin]
+[<img align='left' alt='instagram' title='Instagram' width='32px' target='_blank' src="https://raw.githubusercontent.com/github/explore/06c46459e7947c8a25f72798af696d66e202ac39/topics/instagram/instagram.png"/>][instagram]
+[<img align="left" alt="tiktok" title='TikTok' width="32px" target='_blank' src="https://raw.githubusercontent.com/github/explore/14a518abd710177a13d8c22077cfcd98506dd756/topics/tiktok/tiktok.png"/>][tiktok]
+[<img align="left" alt="linkedin" title='LinkedIn' width="32px" target='_blank' src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png"/>][linkedin]
 
 [instagram]: https://instagram.com/marcmaralou
 [tiktok]: https://tiktok.com/@marcmaralou
