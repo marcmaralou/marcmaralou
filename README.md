@@ -72,7 +72,7 @@
 <img align="left" alt='node' width="32px" title='Node' src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png"/>
 <img align="left" alt='react' width="32px" title='React' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
 <img align="left" alt='mongodb' width="32px" title='MongoDB' src="https://miro.medium.com/max/512/1*doAg1_fMQKWFoub-6gwUiQ.png"/>
-<img align="left" alt='git' width="32px" title='Git' src="[https://miro.medium.com/max/512/1*doAg1_fMQKWFoub-6gwUiQ.png](https://git-scm.com/images/logos/logomark-orange@2x.png)"/>
+<img align="left" alt='git' width="32px" title='Git' src="https://miro.medium.com/max/4800/1*chYGeUFRHHoH0yKQxCczhQ@2x.webp"/>
 
 <br>
 
