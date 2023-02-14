@@ -68,8 +68,4 @@
 <br>
 
 ### Connect with me:
-[<img align="left" alt="linkedin" title='LinkedIn' width="32px" target='_blank' src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png"/>][linkedin]
-
-[linkedin]: https://www.linkedin.com/in/marcmaralou/
-
 marc.maravilla.louie@gmail.com
